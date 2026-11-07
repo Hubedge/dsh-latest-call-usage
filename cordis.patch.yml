@@ -1,0 +1,4 @@
+- insert:
+    - id: local-latest-call-usage
+      name: '@local/dsh-latest-call-usage'
+      config: {}

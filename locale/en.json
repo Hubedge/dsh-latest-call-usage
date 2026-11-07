@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Latest call usage",
+    "description": "Show tokens, cache hits and cache quality for the latest completed LLM call beside the existing usage pill, with details on click."
+  }
+}
